@@ -1,3 +1,6 @@
+variable "funky_town" {
+  description = "Somethin funky"
+}
 variable "private_key" {
   default = "c:/Users/jeremy/.ssh/jca-us-east-1.pem"
 }
