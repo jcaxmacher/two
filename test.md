@@ -1,5 +1,5 @@
 # Hi
 
-  [ ] one
-  [ ] two
-  [ ] three
+  - [ ] one
+  - [ ] two
+  - [ ] three
